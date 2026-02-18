@@ -155,7 +155,8 @@ Configurer IP + passerelle selon le plan d’adressage.
 PC1 → PC2  
 👉 Doit fonctionner
 
-* * Copie d'écran ici * *  
+<img width="521" height="246" alt="image" src="https://github.com/user-attachments/assets/6aad6ae8-7f68-4eb5-a0c5-2b8d8d2c4153" />
+
 
 ---
 
@@ -163,7 +164,8 @@ PC1 → PC2
 PC1 → PC3  
 👉 Fonctionne uniquement grâce au routeur
 
-* * Copie d'écran ici * *  
+![Uploading image.png…]()
+
   
 ---
 
