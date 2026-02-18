@@ -190,9 +190,14 @@ Changer VLAN 10 en :
 <img width="469" height="385" alt="image" src="https://github.com/user-attachments/assets/db7f1dfb-52c0-4ff8-9335-6edaebee4017" />
 
 Questions :
-- Combien d’hôtes max ?  
-- Quelle plage IP valide ?  
+- Combien d’hôtes max ?
+  - 126 hôtes maximum dans le réseau 192.168.10.0/25.
+
+- Quelle plage IP valide ?
+   - 192.168.10.1 à 192.168.10.126
+
 - Peut-on encore communiquer avec VLAN 20 ?
+   - Oui, on peut encore communiquer avec VLAN 20 car même après le changement, VLAN 10 et VLAN 20 restent deux réseaux différents
 
 ---
 
