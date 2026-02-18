@@ -50,6 +50,7 @@ PC1 -------- SW1 -------- R1 -------- PC3
               |
              PC2
 ```
+<img width="540" height="530" alt="Capture d&#39;écran 2026-02-18 112000" src="https://github.com/user-attachments/assets/f689273c-a0d7-4fd8-b8e8-8bdcf0dd1855" />
 
 ---
 
