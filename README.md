@@ -187,6 +187,7 @@ Changer VLAN 10 en :
 ```
 192.168.10.0/25
 ```
+<img width="469" height="385" alt="image" src="https://github.com/user-attachments/assets/db7f1dfb-52c0-4ff8-9335-6edaebee4017" />
 
 Questions :
 - Combien d’hôtes max ?  
