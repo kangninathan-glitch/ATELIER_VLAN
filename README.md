@@ -233,4 +233,6 @@ Extention | 2 |
 Si vous savez expliquer :
 > "Pourquoi deux VLAN ne communiquent pas sans routeur ?"
 
+> Deux VLAN ne communiquent pas sans routeur parce que un VLAN correspond à un réseau logique différent, même si ils sont connectés au même switch, ils sont considérés comme deux réseaux distincts. 
+
 Alors vous avez compris la segmentation réseau 👍
