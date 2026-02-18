@@ -207,11 +207,12 @@ Questions :
 - Mettre un DHCP par VLAN
 
 <img width="660" height="259" alt="image" src="https://github.com/user-attachments/assets/d5e55201-e39d-4c5a-a2a1-b66fa4442ca4" />
--
+    -
 <img width="652" height="191" alt="image" src="https://github.com/user-attachments/assets/317ad366-9735-40de-8c8f-64f618792834" />
 -
-Après la configuration du DHCP sur le routeur, chaque PC configuré en mode DHCP a reçu automatiquement.
-Cela signifie que le serveur DHCP fonctionne correctement pour chaque VLAN.
+
+   - Après la configuration du DHCP sur le routeur, chaque PC configuré en mode DHCP a reçu automatiquement.
+   - Cela signifie que le serveur DHCP fonctionne correctement pour chaque VLAN.
 
 
   
